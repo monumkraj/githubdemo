@@ -1,2 +1,3 @@
 # githubdemo
-this is repo to demanstrate the usege of 
+
+this is repo to demanstrate the usege of kuygu
